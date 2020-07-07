@@ -1,2 +1,2 @@
 # Rutgers-CS323-Project
-Title is clear.
+This project comes from CS323: Numerical Analysis and Computing. 
